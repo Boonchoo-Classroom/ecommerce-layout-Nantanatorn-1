@@ -5,5 +5,17 @@
             android:id="@+id/nav_home"
             android:icon="@drawable/ic_home"
             android:title="Home" />
+        <item
+            android:id="@+id/nav_products"
+            android:title="Category" />
+        <item
+            android:id="@+id/nav_cart"
+            android:title="Cart" />
+        <item
+            android:id="@+id/nav_profile"
+            android:title="profile" />
+        <item
+            android:id="@+id/nav_favorites"
+            android:title="favorites" />
     </group>
 </menu>
